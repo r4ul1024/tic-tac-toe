@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/tic_tac_toe.dir/link.d CMakeFiles/tic_tac_toe.dir/main.cpp.o -o tic_tac_toe
