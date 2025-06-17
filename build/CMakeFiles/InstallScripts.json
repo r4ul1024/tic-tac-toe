@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/us3r/tic_tac_toe/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
