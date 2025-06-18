@@ -23,7 +23,7 @@ g++ -Iinclude src/main.cpp src/game.cpp -o tic-tac-toe
 
 ## Скриншот
 
-![Игра](images/screenshot.png)
+![Игра](images/Screenshot_2025-06-18_22-37-52.png)
 
 ---
 
@@ -52,4 +52,4 @@ g++ -Iinclude src/main.cpp src/game.cpp -o tic-tac-toe
 
 ## Screenshot
 
-![Game](images/screenshot.png)
+![Game](images/Screenshot_2025-06-18_22-37-52.png)
