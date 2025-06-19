@@ -1,10 +1,10 @@
 # Tic-Tac-Toe
 
-Simple terminal Tic-Tac-Toe game in C++ for two players.
+Terminal Tic-Tac-Toe game in C++ for two players.
 
 ## Structure
-- src/ — source files  
-- include/ — headers
+- `src/` — source files  
+- `include/` — header files
 
 ## Compile
 g++ -Iinclude src/main.cpp src/game.cpp -o tic-tac-toe
@@ -13,22 +13,24 @@ g++ -Iinclude src/main.cpp src/game.cpp -o tic-tac-toe
 ./tic-tac-toe
 
 ## Controls
-- Menu: play, edit names, stats, exit  
-- Moves: numbers 1-9
+- Menu: Play, Edit names, Stats, Exit  
+- Moves: Enter numbers 1–9
 
 ## Screenshot
-
 ![Game](images/Screenshot_2025-06-18_22-37-52.png)
+
+## About
+Built using Object-Oriented Programming (OOP) and modular structure.
 
 ---
 
 # Крестики-нолики
 
-Простая игра Крестики-нолики на C++ для двух игроков в терминале.
+Игра Крестики-нолики на C++ для двух игроков в терминале.
 
 ## Структура
-- src/ — исходники  
-- include/ — заголовки
+- `src/` — исходные файлы  
+- `include/` — заголовочные файлы
 
 ## Компиляция
 g++ -Iinclude src/main.cpp src/game.cpp -o tic-tac-toe
@@ -37,5 +39,9 @@ g++ -Iinclude src/main.cpp src/game.cpp -o tic-tac-toe
 ./tic-tac-toe
 
 ## Управление
-- Меню: игра, смена имён, статистика, выход  
-- Ходы: цифры 1-9
+- Меню: Игра, Смена имён, Статистика, Выход  
+- Ходы: ввод цифр от 1 до 9
+
+## О программе
+Реализовано с использованием ООП и модульной структуры.
+
